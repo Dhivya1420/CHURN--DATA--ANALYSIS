@@ -1,2 +1,15 @@
-# CHURN--DATA--ANALYSIS
-Welcome to the Churn Data Analysis. Analyzing and Predicting the Active Members from the churn data using Exploratory Data Analysis and Machine Learning Algorithms. Customer churn occurs when customers or subscribers stop doing a service. It is also referred as loss of customers.
+# CHURN--DATA--ANALYSIS:
+
+![image](https://github.com/user-attachments/assets/f2119764-7710-4682-839a-cd887f943662)
+
+
+
+
+
+
+The Churn Analysis enables businesses to track customer leaving rates. This record helps businesses in enhancing customer loyalty and long-term profitability. Problem Identification: Churn Analysis studies the product and how people use that product. This helps in knowing the reason why people are leaving your product.
+
+Predicting which set of the customers are going to churn out from the organization by analyzing the important variables. Analysing the churn data using the SQL tools, clean and process the data using Exploratory Data Analysis and predicting the Exited customers using Machine Learning Algorithms like Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors and Naive Bayes Algorithm.
+
+# CONCLUSION:
+The Chun data modeling analysis provided valuable insights into the strengths and weaknesses of various machine learning algorithms. By carefully evaluating and comparing these models, Naïve Bayes algorithm is gives the best model. The Chun data modeling analysis provided valuable insights into the strengths and weaknesses of various machine learning algorithms. By carefully evaluating and comparing these models, Naïve Bayes emerged as the most effective solution for predicting churn out customers. The findings underscore the importance of considering multiple aspects, including performance, efficiency, robustness, and interpretability, in the model selection process. Moving forward, continuous improvement and adaptation will be key to leveraging the full potential of the chosen model.
