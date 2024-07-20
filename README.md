@@ -1,6 +1,7 @@
 # CHURN--DATA--ANALYSIS:
 
-![image](https://github.com/user-attachments/assets/f2119764-7710-4682-839a-cd887f943662)
+![image](https://github.com/user-attachments/assets/7e7c14aa-39c5-4879-86c3-da3f7d8a3202)
+
 
 
 
